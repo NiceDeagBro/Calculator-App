@@ -306,4 +306,5 @@ public class MainActivity extends AppCompatActivity {
             tv.setText(format2.format(eval(result)));
         }
     }
+
 }
